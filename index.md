@@ -1,9 +1,12 @@
 ---
-title: Ma page de recommandations
+title: "Mes recommandations"
 order: 0
+in_menu: true
+---
+# Vitrine en cours de renouvellement
 ---
 
-C'est le moment de lister vos logiciels libres préférés, pour les recommander autour de vous !
+Ma liste de logiciels libres que j'utilise et vous recommande !
 
 Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.framalibre.org/mini-site)
 
@@ -25,22 +28,4 @@ Un exemple ci-dessous :
       <a href="https://joinpeertube.org/fr/">Vers le site</a>
     </div>
   </div>
-</article>
-
-## Pour écouter des émissions
-
-Quand je fais une pause, j'aime bien écouter un petit podcast avec :
-
-  <article class="framalibre-notice">
-    <div>
-      <img src="https://beta.framalibre.org/images/logo/AntennaPod.png">
-    </div>
-    <div>
-      <h2>AntennaPod</h2>
-      <p>Un gestionnaire de Podcast pour Android.</p>
-      <div>
-        <a href="https://beta.framalibre.org/notices/antennapod.html">Vers la notice Framalibre</a>
-        <a href="http://antennapod.org/">Vers le site</a>
-      </div>
-    </div>
-  </article>
+</article> 
