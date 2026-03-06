@@ -28,4 +28,19 @@ Un exemple ci-dessous :
       <a href="https://joinpeertube.org/fr/">Vers le site</a>
     </div>
   </div>
-</article> 
+</article>
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Logseq.png">
+    </div>
+    <div>
+      <h2>Logseq</h2>
+      <p>Gestionnaire de notes interconnecté, pratique pour gérer ses connaissances.</p>
+      <div>
+        <a href="https://framalibre.org/notices/logseq.html">Vers la notice Framalibre</a>
+        <a href="https://logseq.com/">Vers le site</a>
+      </div>
+    </div>
+  </article> 
