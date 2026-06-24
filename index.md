@@ -3,16 +3,14 @@ title: "Mes recommandations"
 order: 0
 in_menu: true
 ---
-# Vitrine en cours de renouvellement
+# Mini site en cours de renouvellement.
+
+Ici, je vous propose une sélection non exhaustive de logiciels libres.
+Ils apportent des solutions à de nombreuse problématiques sans avoir recours systématiquement à des géants d'outre-atlantique.
+
 ---
 
-Ma liste de logiciels libres que j'utilise et vous recommande !
-
-Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.framalibre.org/mini-site)
-
-Un exemple ci-dessous :
-
-# Mes logiciels libres pour randonner
+## Mon top 3 :
 
   <article class="framalibre-notice">
     <div>
@@ -26,4 +24,7 @@ Un exemple ci-dessous :
         <a href="https://logseq.com/">Vers le site</a>
       </div>
     </div>
-  </article> 
+  </article>
+
+ ---
+ Fin de ma sélection - mise à jour de juin 2026. 
